@@ -15,7 +15,7 @@
 
 ## 💼 Experience
 
-### 🚀 Software Engineer (Assistant Manager) — *Jio Platforms Ltd.*
+### 🚀 SDE-I — *Jio Platforms Ltd.*
 📍 Mumbai, India &nbsp;|&nbsp; 🗓️ June 2024 – July 2025
 
 At Jio Platforms, I contribute to large-scale digital solutions by building robust backend services and modern frontend applications.
