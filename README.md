@@ -78,7 +78,7 @@ At Jio Platforms, I contribute to large-scale digital solutions by building robu
 ## 📫 Get in Touch
 
 - LinkedIn: [Shreyas Kaldate](https://www.linkedin.com/in/shreyaskaldate)
-- Email: [shreyaskaldate191@gmail.com](mailto:shreyaskaldate191@gmail.com)
+- Email: [shreyaskaldate191@gmail.com](mailto:shreyaskaldate23@gmail.com)
 
 ---
 
