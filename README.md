@@ -5,10 +5,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 Incoming MS in Computer Science at NYU(Fall 2025)  
-💼 1.5 years experience as Software Engineer at Jio Platforms  
-💡 Passionate about building secure, scalable backend systems  
-🧠 On a journey to craft intelligent, scalable backend systems powered by data, AI, and distributed design 
+🎓 Incoming MS in Computer Science at NYU(Fall 2025).  
+💼 1.5 years experience as Software Engineer at Jio Platforms.
+💡 Passionate about building secure, scalable backend systems.  
+🧠 On a journey to craft intelligent, scalable backend systems powered by data, AI, and distributed design.
 📫 Connect with me: [LinkedIn](https://linkedin.com/in/shreyaskaldate) • [Email](mailto:shreyaskaldate191@gmail.com)
 
 ---
