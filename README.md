@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas Kaldate</h1>
-<h3 align="center">Software Developer | MS in CS (Fall 2025) | Building Scalable Systems</h3>
+<h3 align="center">MSCS @NYU | Software Developer | Building Scalable Systems</h3>
 
 ---
 
