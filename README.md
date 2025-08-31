@@ -38,10 +38,10 @@ At Jio Platforms, I contribute to large-scale digital solutions by building robu
 
 | Project | Description | Stack |
 |--------|-------------|--------|
+| [Online Banking Application](https://github.com/Shreyas191/Online-Banking-Application) | Designed and implemented a resilient microservices architecture using Spring Boot with secure authentication, centralized API gateway, service discovery, and externalized configurations | Java, Spring Boot, MySQL |
 | [E-Commerce-APIs](https://github.com/Shreyas191/E-Commerce-APIs) | RESTful backend with Swagger, authentication, and order management | Java, Spring Boot, MySQL |
-| [AI Resume Analyzer](https://github.com/Shreyas191) | AI-powered full-stack app for analyzing resumes | Angular, Spring Boot, OpenAI |
-| [Gym-Portal](https://github.com/Shreyas191) | Portal with secure JWT login, profile, and user tracking | Spring Boot, Angular |
-| [Kafka-Microservices-Demo](https://github.com/Shreyas191) | Microservices using Kafka for real-time communication | Spring Boot, Kafka, Docker |
+| [Smart Contact Manager](https://github.com/Shreyas191/Smart-Contact-Manager) | Web-based application built using Spring Boot, Thymeleaf, and MySQL | Spring Boot, Angular |
+| [Smart Irrigation and Worm Detection](https://github.com/Shreyas191) |Developed a Smart Irrigation system leveraging sensors and automation to optimize water usage for crops | Python, CNN, IoT |
 
 ---
 
